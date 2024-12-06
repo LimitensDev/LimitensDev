@@ -38,7 +38,3 @@ I’m a Web and Program Developer who enjoys creating fun and challenging projec
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
-
----
-
-<img src="https://raw.githubusercontent.com/limitensdev/limitensdev/output/snake.svg" alt="Snake animation" />
