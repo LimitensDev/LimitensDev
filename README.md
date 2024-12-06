@@ -9,5 +9,5 @@ I’m a Web and Program Developer who enjoys creating fun and challenging projec
     <img alt="discord" title="Message Me On Discord" src="https://custom-icon-badges.demolab.com/badge/Add%20Me%20On%20Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" /></a>
       <a href="https://www.youtube.com/c/fknight">
          <a href="https://e-z.bio/Limitens" target="_blank">
-    <img alt="E-Z Bio" title="Visit My Profile on E-Z Bio" src="https://custom-icon-badges.demolab.com/badge/Visit%20My%20Profile-1DA1F2?logo=link&logoColor=white&style=for-the-badge" /></a>
+    <img alt="E-Z Bio" title="Bio Link" src="https://custom-icon-badges.demolab.com/badge/Visit%20My%20Profile-1DA1F2?logo=link&logoColor=white&style=for-the-badge" /></a>
    </p>
